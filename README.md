@@ -1,0 +1,1 @@
+# A News Reading App that reads specific context of news according to your prefrences.

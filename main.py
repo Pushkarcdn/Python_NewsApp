@@ -35,7 +35,7 @@ main_url = (
     + keyword
     + "&language="
     + lang
-    + "&from=2023-09-30&sortBy=popularity&apiKey="
+    + "&from=2023-10-06&sortBy=popularity&apiKey="
     + api_key
 )
 
